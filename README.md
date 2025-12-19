@@ -20,14 +20,14 @@ Repositorio de scripts y librerías en <b>Lua</b> para <b>Roblox</b>.
 
 ## 📂 Contenido
 
-<details>
+<details open>
 <summary><b>Lua UILibs</b></summary>
 
 - Lua UI Libraries
 
 </details>
 
-<details>
+<details open>
 <summary><b>Game Scripts</b></summary>
 
 - Rivals  
@@ -36,29 +36,29 @@ Repositorio de scripts y librerías en <b>Lua</b> para <b>Roblox</b>.
 
 </details>
 
-<details>
+<details open>
 <summary><b>ESP</b></summary>
 
-- Name
-- Hihglights
-- Distance
-- Healthbar
-- TeamCheck
+- Name  
+- Highlights  
+- Distance  
+- Health Bar  
+- Team Check  
 
 </details>
 
-<details>
-<summary><b>AimBot</b></summary>
+<details open>
+<summary><b>Aimbot</b></summary>
 
-- Aimlock
-- Fov
-- Keybind
-- TeamCheck
-- Smooth
+- Aimlock  
+- FOV  
+- Keybind  
+- Team Check  
+- Smooth  
 
 </details>
 
-<details>
+<details open>
 <summary><b>Shaders</b></summary>
 
 </details>
