@@ -21,7 +21,7 @@ Repositorio de scripts y librerías en <b>Lua</b> para <b>Roblox</b>.
 ## 📂 Contenido
 
 <details>
-<summary><img src="https://img.icons8.com/ios-filled/18/000000/window.png"/> <b>Lua UILibs</b></summary>
+<summary><i class="fa-solid fa-rectangle-list"></i> <b>Lua UILibs</b></summary>
 
 - Lua UI Libraries
 
