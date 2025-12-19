@@ -21,14 +21,14 @@ Repositorio de scripts y librerías en <b>Lua</b> para <b>Roblox</b>.
 ## 📂 Contenido
 
 <details>
-<summary><i class="fa-solid fa-rectangle-list"></i> <b>Lua UILibs</b></summary>
+<summary><b>Lua UILibs</b></summary>
 
 - Lua UI Libraries
 
 </details>
 
 <details>
-<summary><img src="https://img.icons8.com/ios-filled/18/000000/controller.png"/> <b>Game Scripts</b></summary>
+<summary><b>Game Scripts</b></summary>
 
 - Rivals  
 - Steal a Brainrot  
@@ -37,27 +37,29 @@ Repositorio de scripts y librerías en <b>Lua</b> para <b>Roblox</b>.
 </details>
 
 <details>
-<summary><img src="https://img.icons8.com/ios-filled/18/000000/visible.png"/> <b>ESP</b></summary>
+<summary><b>ESP</b></summary>
+
+- Name
+- Hihglights
+- Distance
+- Healthbar
+- TeamCheck
 
 </details>
 
 <details>
-<summary><img src="https://img.icons8.com/ios-filled/18/000000/settings.png"/> <b>Utils</b></summary>
+<summary><b>AimBot</b></summary>
+
+- Aimlock
+- Fov
+- Keybind
+- TeamCheck
+- Smooth
 
 </details>
 
 <details>
-<summary><img src="https://img.icons8.com/ios-filled/18/000000/sniper-scope.png"/> <b>Aimlock</b></summary>
-
-</details>
-
-<details>
-<summary><img src="https://img.icons8.com/ios-filled/18/000000/target.png"/> <b>Aimbots</b></summary>
-
-</details>
-
-<details>
-<summary><img src="https://img.icons8.com/ios-filled/18/000000/paint-palette.png"/> <b>Shaders</b></summary>
+<summary><b>Shaders</b></summary>
 
 </details>
 
