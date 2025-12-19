@@ -9,7 +9,7 @@ Repositorio de scripts y librerías en <b>Lua</b> para <b>Roblox</b>.
 <p>
 <img src="https://img.shields.io/badge/Lua-Roblox-2C2D72?style=for-the-badge&logo=lua"/>
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-<a href="https://discord.gg/">
+<a href="https://discord.gg/xeY5xSVDwR">
 <img src="https://img.shields.io/badge/Discord-ox.de-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
