@@ -1,18 +1,15 @@
-# Roblox Lua UILibs & Scrips
-Open source
+# 🎮 Roblox Lua UILibs & Scripts
 
-Lua UILibs 
+## 📂 Lua UILibs
+## 🎯 Game Scripts
+- Rivals
+- Steal a Brainrot
+- Universal Scripts
 
-Game Scripts
-Rivals
-Steal a Brainrot
-Universal Scripts
+## 🎯 ESP
+## ⚙️ Utils
+## 🔫 Aimlock
+## 🎯 Aimbots
+## 🎨 Shaders
 
-Esp
-Utils
-Aimlock
-Aimbots
-Shaders
-
-
-Discord @ox.de
+## 📞 Discord @ox.de
