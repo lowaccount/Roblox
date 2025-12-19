@@ -62,9 +62,3 @@ Repositorio de scripts y librerías en <b>Lua</b> para <b>Roblox</b>.
 </details>
 
 ---
-
-## 📞 Contacto
-
-<p align="center">
-<img src="https://img.icons8.com/ios-filled/20/5865F2/discord-logo.png"/> <b>Discord:</b> ox.de
-</p>
